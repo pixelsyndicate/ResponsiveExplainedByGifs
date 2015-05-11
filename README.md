@@ -1,4 +1,3 @@
 # ResponsiveExplainedByGifs
-This simple HTML/Bootstrap page displayed a condensed version of the content from 
-http://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly 
+The contents of this page are the property of <a href="http://blog.froont.com/9-basic-principles-of-responsive-web-design/" target="_blank">FROONT open Design Blog</a>, and is used here without permission.
 
